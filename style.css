@@ -96,7 +96,7 @@ nav ul li a:hover {
   gap: 70px;
 }
 .cat-flex div {
-  background-color: #ffc867;
+  background-color: #ffd48a;
   border-radius: 10px;
 }
 .cat-flex div p {
@@ -153,6 +153,7 @@ nav ul li a:hover {
   color: white;
   background-color: #f54c11;
 }
+/* Footer Section */
 footer {
   margin-top: 100px;
   text-align: center;
