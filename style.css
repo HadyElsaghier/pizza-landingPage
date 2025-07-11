@@ -8,6 +8,7 @@ body {
   padding: 0;
 }
 
+/* Hero Section */
 nav ul {
   list-style-type: none;
   display: flex;
@@ -71,4 +72,31 @@ nav ul li a:hover {
 }
 .hero-text .signup {
   align-self: flex-start;
+}
+
+/* Categories Section */
+.categories {
+  background-color: #fce1b1;
+  padding: 50px 0px;
+}
+.categories h2,
+p {
+  text-align: center;
+  color: #f54c11;
+}
+.categories h2 {
+  margin-bottom: 50px;
+}
+.cat-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 70px;
+}
+.cat-flex div {
+  background-color: #ffc867;
+  border-radius: 10px;
+}
+.cat-flex div p {
+  padding: 20px 0px;
 }
